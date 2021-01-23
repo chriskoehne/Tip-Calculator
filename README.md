@@ -32,7 +32,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+ - need to better understand how to better implement constraints using Storyboard
 
 ## License
 
